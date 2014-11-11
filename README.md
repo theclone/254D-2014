@@ -3,13 +3,13 @@
 Code for VEX Team 254D's 2014 game.
 
 Includes:
-=
-driver control (holonomic, lift, pneumatics),
-=
-time-based autonomous,
-=
-encoder and basic (untested,untuned) PID function
+<li>
+<ul>driver control (holonomic, lift, pneumatics),</ul>
+<ul>time-based autonomous,</ul>
+<ul>encoder and basic (untested,untuned) PID function</ul>
+</li>
 
 To Do:
-=
-encoder/PID based autonomous
+<li>
+<ul>encoder/PID based autonomous</ul>
+</li>
