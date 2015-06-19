@@ -1,15 +1,15 @@
 254D-2014
 =========
-Code for VEX Team 254D's 2014 game.
+Code for VEX Team 254D's Skyrise robot.
 
 Includes:
 <li>
-<ul>driver control (holonomic, lift, pneumatics),</ul>
-<ul>time-based autonomous,</ul>
-<ul>encoder and basic (untested,untuned) PID function</ul>
+<ul>driver control (holonomic drive, lift, pneumatics),</ul>
+<ul>PID-based autonomous,</ul>
 </li>
 
 To Do:
 <li>
-<ul>encoder/PID based autonomous</ul>
+<ul>PID for driver control</ul>
+<ul>Further tuning for PID with Integral and Derivative constants<ul>
 </li>
